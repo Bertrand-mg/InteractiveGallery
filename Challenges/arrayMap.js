@@ -1,4 +1,4 @@
-function hasSubarrayWithTargetSum(arr, target) {
+function hasSubarray(arr, target) {
     let current_sum = 0;
     let start = 0;
   
@@ -20,4 +20,4 @@ function hasSubarrayWithTargetSum(arr, target) {
   
   const arr = [4, 2, 7, 1, 9, 5];
   const target = 17;
-  console.log(hasSubarrayWithTargetSum(arr, target)); 
+  console.log(hasSubarray(arr, target)); 
