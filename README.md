@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 ## usage
 
-1. To run the Interactive photo Gallery open the index.html found in the extracted folder in a browser
+1. To run the Interactive photo Gallery open the index.html in a browser found in the extracted folder PhotoGallery
 
 2. To run the scripts, navigate to the directory where the scripts are located. In the path type cmd.
    It will open a cmd windows then type following syntax in the CLI:
@@ -36,4 +36,12 @@ To set up the project locally, follow these steps:
    Example
    >>node arrayMap.js
 
-   Generating the output of code in the CLI   
+   Generating the output of code in the CL
+
+   The outputs of Scripts
+       arrayMap.js     :
+                         true
+       stringTransform :
+                         regrubmaH
+                         80 105 122 122 97
+                         eikooC pihC etalocohC
