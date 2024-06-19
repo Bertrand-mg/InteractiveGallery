@@ -1,17 +1,14 @@
-Project Description
+Repository Description
 
-This project consists of :
+This repository consists of :
 
-1. An interactive photo gallery
-2. Solutions to two coding challenges: Array Manipulation and String Transformation.
+1. Hello Project App using Flutter
+2. Simple Calculator Project App  using react Native
 
 Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Coding Challenges](#coding-challenges)
-  - [Array Manipulation](#array-manipulation)
-  - [String Transformation](#string-transformation)
 
 ## Installation
 
@@ -21,27 +18,16 @@ To set up the project locally, follow these steps:
    https://github.com/Bertrand-mg/InteractiveGallery.git
 2. Extract the downloaded zip
    
-3. Install Node.js, you will need it to run the scripts
-   a. Go to the Node.js website: Node.js
-   b. Download the Installer: Choose the installer that matches your operating system
-   c. Run the Installer: Follow the prompts to complete the installation
+3. Install Flutter,Node.js, Android Studio , Visual studio code you will need them to run the projects
+   
 
 ## usage
+1. First Open the Android Studio app and create a virtual android device, run the device.
 
-1. To run the Interactive photo Gallery open the index.html in a browser found in the extracted folder PhotoGallery
+1. To run the Hello Project
+   * open the Hello directory in Visual Studio code.
+   * In terminal of the project run "flutter run" command after this done you wil prompt to choose device of your preference to run on.
 
-2. To run the scripts, navigate to the directory where the scripts are located. In the path type cmd.
-   It will open a cmd windows then type following syntax in the CLI:
-   >>node name-of-script
-   Example
-   >>node arrayMap.js
-
-   Generating the output of code in the CL
-
-   The outputs of Scripts
-       arrayMap.js     :
-                         true
-       stringTransform :
-                         regrubmaH
-                         80 105 122 122 97
-                         eikooC pihC etalocohC
+3. To run Calculator Project
+   * open the Calculator directory in Visual Studio code.
+   * In terminal of the project run "npm start" command after this done you wil prompt to choose device of your preference to run on.
